@@ -15,7 +15,7 @@ require (
 	github.com/onsi/gomega v1.13.0
 	github.com/oracle/oci-go-sdk/v41 v41.2.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/stretchr/testify v1.6.1
 	k8s.io/api v0.19.2
 	k8s.io/apimachinery v0.19.2
